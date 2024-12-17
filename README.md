@@ -1,5 +1,4 @@
-# $f\sigma_8$ galaxy clustering model selection based on interpretable machine Learning 
-
+# Model Selection for $f\sigma_8$ growth rate data sing Interpretable Machine Learning
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Table of Contents
