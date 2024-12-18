@@ -1,5 +1,7 @@
 # Model Selection for $f\sigma_8$ growth rate data using Interpretable Machine Learning
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.08351-b31b1b.svg)](https://arxiv.org/abs/2406.08351)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14515098.svg)](https://doi.org/10.5281/zenodo.14515098)
 
 ## Table of Contents
 
