@@ -18,7 +18,8 @@
 
 This repository hosts the codebase developed for the machine learning analysis presented in [arXiv:2406.08351](https://arxiv.org/abs/2406.08351). The objective is to perform model selection between ΛCDM and the Hu-Sawicky (HS) f(R) modified gravity model using simulated growth rate $f\sigma_8$ data. The workflow integrates advanced ML techniques with a focus on Local Interpretability via [LIME](https://github.com/marcotcr/lime.git) (Local Interpretable Model-agnostic Explanations), providing insights into the decision-making process of the machine learning models. This folder contains:
 1. The Neural Network for model selection HS and ΛCDM. (jupyter notebook)
-2. The application of [LIME](https://github.com/marcotcr/lime.git) for tabular data. (jupyter notebook)
+2. The application of [LIME](https://github.com/marcotcr/lime.git) for tabular data. (python)
+3. The plots created with the Lime data for local and global explanations. (jupyter notebook)
 
 ## Installation
 
