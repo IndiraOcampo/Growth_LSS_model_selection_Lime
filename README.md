@@ -41,7 +41,7 @@ git clone https://github.com/IndiraOcampo/Growth_LSS_model_selection_Lime.git
 If you are using the content provided in this repository to do your own analysis, please cite this repository and the manuscript:
 
 ```bash
-@misc{[Growth_LSS_model_selection_Lime.git,
+@misc{Growth_LSS_model_selection_Lime.git,
   authors = {Ocampo I},
   title = {Growth LSS model selection and interpretability},
   year = {2024},
